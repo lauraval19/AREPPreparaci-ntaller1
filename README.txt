@@ -1,4 +1,4 @@
-### 'Mi primer proyecto AREP'
+# 'Mi primer proyecto AREP'
 ## Valentina Alvarado
 
 ## Link de heroku:
