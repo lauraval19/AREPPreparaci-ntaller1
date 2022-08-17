@@ -37,6 +37,13 @@
       <artifactId>slf4j-simple</artifactId>
       <version>1.7.36</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.sonatype.aether/aether-api -->
+    <dependency>
+      <groupId>org.sonatype.aether</groupId>
+      <artifactId>aether-api</artifactId>
+      <version>1.7</version>
+    </dependency>
+
   </dependencies>
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
